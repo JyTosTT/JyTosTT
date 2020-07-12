@@ -1,4 +1,4 @@
-[![Jean TOSTIVINT](https://res.cloudinary.com/hrunwkirx/image/upload/v1594557299/users/default/dsfeffs_yswacu.gif](https://github.com/JyTosTT)
+[![Jean TOSTIVINT](https://res.cloudinary.com/hrunwkirx/image/upload/v1594557299/users/default/dsfeffs_yswacu.gif)](https://github.com/JyTosTT)
 
 <!--
 **JyTosTT/JyTosTT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
